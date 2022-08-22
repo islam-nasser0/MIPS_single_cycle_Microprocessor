@@ -1,4 +1,4 @@
-#32-bit MIPS general purpose integer microprocessor & config it on FPGA
+# 32-bit MIPS general purpose integer microprocessor & config it on FPGA
 
 
 Phases:
